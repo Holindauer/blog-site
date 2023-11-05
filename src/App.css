@@ -1,0 +1,17 @@
+/* src/App.css */
+/* Add general styles for the app here */
+
+button {
+  background-color: #797979;
+  color: rgb(43, 39, 39);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Add other styles for HomePage and BlogPost as needed */
