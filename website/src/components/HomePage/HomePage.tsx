@@ -11,7 +11,7 @@ const HomePage: React.FC = () => {
 
   return (
     <div className={styles.homeContainer}>
-      <h1 className={styles.homeTitle}>Holindauer's Blog</h1>
+      <h1 className={styles.homeTitle}>Holindauer Thought Repository</h1>
       <div className={styles.articlesList}>
         {articles.map(article => (
           <Link to={`/article/${article.id}`} key={article.id} className={styles.articleLink}>

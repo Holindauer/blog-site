@@ -1,4 +1,6 @@
 # First Blog Post
 
-This is my the first post on my website.
+First article on my website. 
+
+I plan to put a lot of different ideas I've been having on this site. 
 
