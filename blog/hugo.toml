@@ -1,0 +1,5 @@
+baseURL = 'http://holindauer.com/'
+languageCode = 'en-us'
+title = 'Holindauer.com'
+
+theme = 'holy'
