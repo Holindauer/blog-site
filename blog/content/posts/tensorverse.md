@@ -1,7 +1,7 @@
 ---
 title: "The Universe as a Tensor of Infinite Dimensionality"
 date: 2024-01-09T15:47:15-08:00
-draft: true
+draft: false
 ---
 
 

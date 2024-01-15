@@ -1,7 +1,7 @@
 ---
 title: "An Abstract Algebra Oriented Explanation for Specialization in Humans"
 date: 2024-01-09T15:56:15-08:00
-draft: true
+draft: false
 ---
 
 Consider the set of all 5 element tuples of personality variation contained within the big 5 personality scale. 
