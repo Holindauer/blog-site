@@ -24,6 +24,6 @@ Now imagine we write a program that allows us to modify the ASIC's verilog code 
 
 This compiler would be written in such a way that instructions for making one system more robust would make another system less robust in a way that could be mapped to a number line. A data space is defined by representing the modification of every orthogonal chip configuration in this way. 
 
-We could then define a loss function for the ASIC, in our case it would be how fast it solves SHA256. Somewhere within that dataspace is a minima for optimal ASIC configuration for bitcoin mining.
+We could then define a loss function for the ASIC, in our case it would include some penalty with regards to how fast it solves SHA256. Somewhere within that dataspace is a minima for optimal ASIC configuration for bitcoin mining.
 
 If we trained a neural network in such a way where we confined its output space such that it always outputs a possible FPGA configuration, we could use machine learning to optimize the chip.
